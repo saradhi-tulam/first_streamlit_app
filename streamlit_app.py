@@ -3,5 +3,7 @@ import streamlit
 
 streamlit.title("hello, how are you?")
 
-streamlit.display("testing")
+streamlit.header("header test")
+
+streamlit.text("text test")
 
