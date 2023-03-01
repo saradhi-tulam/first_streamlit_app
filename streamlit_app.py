@@ -7,3 +7,6 @@ streamlit.header("header test")
 
 streamlit.text("text test")
 
+streamlit.header('🍌🥭  Build Your Own Fruit Smoothie 🥝🍇')
+
+
