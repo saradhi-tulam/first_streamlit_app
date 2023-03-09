@@ -1,4 +1,6 @@
 
+import snowflake.connector
+
 import streamlit
 
 streamlit.title("hello, how are you?")
